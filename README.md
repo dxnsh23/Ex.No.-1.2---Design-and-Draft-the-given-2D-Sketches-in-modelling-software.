@@ -2,6 +2,8 @@
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
+ # NAME - DINESH RAGHAVENDARA
+ # REFERENCE NUMBER - 24900081
  
 ## REQUIREMENTS
  1. Autodesk fusion 360
@@ -36,7 +38,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![SNIPPED1 2](https://github.com/user-attachments/assets/e38c8e1c-e8b0-4963-8868-37be3a3ee918)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
